@@ -1,21 +1,24 @@
-# More Redstone
+# [<](../README.md) More Redstone
 
-![Curseforge](https://img.shields.io/curseforge/dt/383946?logo=curseforge&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=e04e14&logoColor=1c1c1c)
-![Version](https://img.shields.io/curseforge/v/383946?style=for-the-badge)
-![Game Versions](https://img.shields.io/curseforge/game-versions/383946?style=for-the-badge)
+![alt](banner.png)
 
-This datapack adds more redstone for you redstone geeks.
+This datapack adds more Redstone for you redstone geeks.
 
-## Mod Data
+## Pack Data
 
-| Key       | Value          |
-| --------- | -------------- |
-| namespace | `moreredstone`   |
-| slug      | `more-redstone` |
+| Key                | Value                                                                                                 |
+| ------------------ | ----------------------------------------------------------------------------------------------------- |
+| supported          | `yes`                                                                                                 |
+| namespace          | `more_redstone`                                                                                       |
+| pack_version       | `1.2.0`                                                                                               |
+| mc_version         | `1.16.5`                                                                                              |
+| multiplayer_tested | `no`                                                                                                  |
+| has_config         | `no`                                                                                                  |
+| dependency         | [LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack) |
 
 ## LINKS
 
 - [Download](https://www.curseforge.com/minecraft/customization/more-redstone-datapack)
-- [Wiki Page](https://docs.lpsmods.dev/more-redstone)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
 - [License](https://license.lpsmods.dev)
-- [Bug Report](https://github.com/lpsmods/more-redstone/issues)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)
