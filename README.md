@@ -6,6 +6,12 @@
 
 This datapack adds more redstone for you redstone geeks.
 
+## Contributing
+
+This repository has multiple branches for each platform this Minecraft mod supports.
+
+- [`datapack`](https://github.com/lpsmods/more-redstone/tree/datapack)
+
 ## Mod Data
 
 | Key       | Value          |
